@@ -2,7 +2,7 @@
 title: 梦行记
 SEOTitle: 梦行记0
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: @gmail.com
 description: "梦行记1"
 keyword: "梦行记2"
 url: "https://lishuyao1993.github.io"          # your host, for absolute URL
@@ -96,19 +96,3 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "梦行记4",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
-    },{
-        title: "梦行记5",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
-    },{
-        title: "梦行记6",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    },{
-        title: "梦行记7",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
-    }
-]
